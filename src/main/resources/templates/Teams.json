@@ -1,0 +1,53 @@
+{"teams":[
+  {
+    "nombre": "America",
+    "posicion": "4",
+    "puntaje": "18",
+    "ganado": "8",
+    "empate": "6",
+    "perdido": "4",
+    "golesFavor": "27",
+    "golesContra": "20"
+  },
+  {
+    "nombre": "Pasto",
+    "posicion": "5",
+    "puntaje": "18",
+    "ganado": "8",
+    "empate": "6",
+    "perdido": "4",
+    "golesFavor": "24",
+    "golesContra": "17"
+  },
+  {
+    "nombre": "Deportivo cali",
+    "posicion": "3",
+    "puntaje": "18",
+    "ganado": "7",
+    "empate": "10",
+    "perdido": "1",
+    "golesFavor": "28",
+    "golesContra": "19"
+  },
+  {
+    "nombre": "Tolima",
+    "posicion": "2",
+    "puntaje": "19",
+    "ganado": "10",
+    "empate": "7",
+    "perdido": "2",
+    "golesFavor": "28",
+    "golesContra": "13"
+  },
+  {
+    "nombre": "Santa Fe",
+    "posicion": "1",
+    "puntaje": "19",
+    "ganado": "10",
+    "empate": "7",
+    "perdido": "2",
+    "golesFavor": "32",
+    "golesContra": "16"
+  }
+]
+}
